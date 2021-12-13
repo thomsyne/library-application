@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Installing Packages
 
-After cloning the application to your machine, run `npm install`. If you run into any errors, possibly due to compatibility issues, run `npm install --legacy-peer-deps`. Once that is done. Move to the next step.
+After cloning the application to your machine, run `npm install`. If you run into any errors, possibly due to compatibility issues, run `npm install --legacy-peer-deps`. Once that is done, move to the next step.
 
 ## Development server
 
